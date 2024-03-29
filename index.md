@@ -14,3 +14,8 @@ Add differents Headers :D
 1. Order List
 - Unorder List
 ```
+
+- [X] Finish Introduction to Github
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
